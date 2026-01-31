@@ -109,6 +109,5 @@ All datasets include `state`, `district`, and `date` fields.
 
 ## Author
 
-**P. Devyani** – B.Tech CSE Student  
-Email: [Your Email]  
-LinkedIn: [Your LinkedIn]  
+**P. Devyani** – B.Tech CSE Student   
+
